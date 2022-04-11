@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VivekSingh04
+- 👋 Hi, I’m Vivek Kumar Singh
 - 👀 I’m interested in Software engineering jobs
 - 🌱 I’m currently learning Full stack web development along with DSA
 - 💞️ I’m looking to collaborate on good projects
